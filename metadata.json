@@ -1,0 +1,8 @@
+{
+  "name": "Smart Health Tracker",
+  "description": "A modern mobile health monitoring application for patients with hypertension and diabetes, featuring AI OCR for medical devices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
